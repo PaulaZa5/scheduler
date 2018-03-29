@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<h1> Operating Systems Scheduling Algorithms Simulator </h1>
+  <h1 align="center"> Operating Systems Scheduling Algorithms Simulator </h1>
 </p>
 
 <p align="center">
